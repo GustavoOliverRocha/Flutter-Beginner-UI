@@ -23,7 +23,7 @@ class _MainPageState extends State<MainPage>
 	{
 		return Scaffold(
 			appBar: AppBar(
-				title: Text('Profsssrile'),
+				title: Text('Profile'),
 				backgroundColor: Colors.purple,
 			),
 
@@ -51,7 +51,7 @@ class _MainPageState extends State<MainPage>
 						),
 					),
 					NavigationDestination(
-						label:"??",
+						label:"Config",
 						icon:Icon(
 							//size: 20,
 							Icons.settings,

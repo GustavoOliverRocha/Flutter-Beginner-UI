@@ -13,7 +13,21 @@ class _ListPageState extends State<ListPage>
 	Widget build(BuildContext context)
 	{
 		return Container(
-			child: Text('ListPage'),
+			child: //Column(
+				//children:[
+				ListView.builder(
+					itemCount: 5,
+					itemBuilder:(BuildContext context, int index){
+					return ListTile(
+						title: Text('Item ${(index+1)}'),
+						leading: Icon(Icons.person),
+						trailing:Icon(Icons.settings),
+						onTap: (){print('Items numero: ${(index+1)}');}
+
+					);
+				})
+				//]
+			//),
 		);
 	}
 }
