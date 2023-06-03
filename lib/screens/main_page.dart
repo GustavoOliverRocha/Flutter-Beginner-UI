@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'profile_page.dart';
 import 'list_page.dart';
 import 'config_page.dart';
+import 'sidebar.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);
@@ -26,6 +27,7 @@ class _MainPageState extends State<MainPage> {
   String titulo_topo = 'Profile';
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: SideBar(),
       appBar: AppBar(
         title: Text(titulo_topo),
         backgroundColor: Colors.purple,
