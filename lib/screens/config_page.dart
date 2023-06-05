@@ -1,3 +1,4 @@
+import 'package:beginner_ui/screens/config_page_tema.dart';
 import 'package:flutter/material.dart';
 
 class ConfigPage extends StatefulWidget {
@@ -18,11 +19,19 @@ class _ConfigPageState extends State<ConfigPage> {
               children: <Widget>[
                 Text('Visual'),
                 ListTile(
-                    leading: Icon(Icons.wallpaper),
-                    title: Text('Tema'),
-                    onTap: () {
-                      print('sadsad');
-                    }),
+                  /*trailing: Switch(
+                    value: false,
+                    onChanged: (value) => {print(value) this.value = value},
+                  ),*/
+                  leading: Icon(Icons.wallpaper),
+                  title: Text('Tema'),
+                  onTap: () {
+                    Navigator.push(context, MaterialPageRoute<void>(
+                        builder: (BuildContext context) {
+                      return ConfigPageTema();
+                    }));
+                  },
+                ),
               ],
             ),
           ),

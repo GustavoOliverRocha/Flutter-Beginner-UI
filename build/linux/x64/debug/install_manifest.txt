@@ -1,0 +1,14 @@
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/beginner_ui
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/images/login_logo.png
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/images/Originals/login_logo.png
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/gustavo/Documents/projetoflutter/Flutter-Beginner-UI/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z

@@ -30,7 +30,7 @@ class _MainPageState extends State<MainPage> {
       drawer: SideBar(),
       appBar: AppBar(
         title: Text(titulo_topo),
-        backgroundColor: Colors.purple,
+        backgroundColor: Color.fromARGB(255, 117, 77, 124),
       ),
       body: pages[currentIndex],
       bottomNavigationBar: NavigationBar(
